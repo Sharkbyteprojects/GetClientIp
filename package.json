@@ -1,11 +1,27 @@
 {
-  "name": "GET-IP",
+  "name": "getmyip",
   "version": "1.0.0",
-  "scripts": {
-     "start": "node getip.node.js"
-   },
-  "description": "Getting the ip",
+  "description": "Get the ip of the Client",
   "main": "getip.node.js",
-  "author": "Sharkbyte",
-  "license": "MIT"
+  "scripts": {
+    "start": "node getip.node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharkbyteprojects/GetClientIp.git"
+  },
+  "keywords": [
+    "IP",
+    "IP6",
+    "FAST",
+    "Shark",
+    "TINY",
+    "integration"
+  ],
+  "author": "Sharkbyteprojects",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharkbyteprojects/GetClientIp/issues"
+  },
+  "homepage": "https://github.com/Sharkbyteprojects/GetClientIp#readme"
 }
