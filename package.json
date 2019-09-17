@@ -1,0 +1,11 @@
+{
+  "name": "GET-IP",
+  "version": "1.0.0",
+  "scripts": {
+     "start": "node getip.node.js"
+   },
+  "description": "Getting the ip",
+  "main": "getip.node.js",
+  "author": "Sharkbyte",
+  "license": "MIT"
+}
